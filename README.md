@@ -26,6 +26,8 @@ A Python program that evaluates whether a password is **Weak**, **Medium**, or *
 
 ![Second GUI Screenshot](Screenshot%202026-05-25%20004452.png)
 
+![Third GUI Screenshot](Screenshot%202026-05-25%20004503.png)
+
 ---
 
 ## 📁 Files
