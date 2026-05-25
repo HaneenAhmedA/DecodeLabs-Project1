@@ -22,6 +22,8 @@ A Python program that evaluates whether a password is **Weak**, **Medium**, or *
 ## 🖥️ GUI Preview
 > Live strength bar, color-coded criteria checklist, and Show/Hide password toggle.
 
+![GUI Screenshot](Screenshot%202026-05-25%20002338.png)
+
 ---
 
 ## 📁 Files
